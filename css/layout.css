@@ -336,17 +336,27 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: C++ 2s ease;
 }
 .Python {
-  	width: 50%;
+  	width: 80%;
   	-moz-animation: Python 2s ease;
   	-webkit-animation: Python 2s ease;
 }
 .html {
-  	width: 60%;
+  	width: 70%;
   	-moz-animation: html 2s ease;
   	-webkit-animation: html 2s ease;
 }
-.ReactJS {
-  	width: 40%;
+.css{
+   width: 70%;
+   -moz-animation: html 2s ease;
+   -webkit-animation: html 2s ease;
+}
+.javascript{
+   width: 80%;
+   -moz-animation: html 2s ease;
+   -webkit-animation: html 2s ease;
+}
+.java {
+  	width: 30%;
   	-moz-animation: ReactJS 2s ease;
   	-webkit-animation: ReactJS 2s ease;
 }
